@@ -1,20 +1,44 @@
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+<p align="center"> <h1 align="center"> Olá, me chamo Nicolas Marine <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /></h1> 
+</p>
 
-<div> 
-  <!--
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=Lanchelotti" alt="Lanchelotti"/>
+    <a href="https://github.com/Lanchelotti/Lanchelotti/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/Lanchelotti/Lanchelotti" /></a>
+    <a href="https://github.com/Lanchelotti/Lanchelotti" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/Lanchelotti/Lanchelotti?label=Profile%20update&style=flat-square"></a>
+    <a href="https://github.com/Lanchelotti?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Lanchelotti?color=4C1&logo=github"></a>
+</p>
+
+* Sou dedicado à criação de código limpo e com atenção aos detalhes, prezando por organização e clareza em cada etapa do desenvolvimento.
+
+* Trabalho com tecnologias como AWS, Python, JavaScript, Docker, Git, SQL, HTML e CSS, explorando continuamente novas formas de aprimorar meu fluxo e minhas soluções.
+
+* Busco aprimorar minhas habilidades diariamente, criando soluções que conciliem boa engenharia, usabilidade e impacto real no dia a dia das pessoas.
+
+***
+
+<!-- Tech -->
+### 🛠 &nbsp;Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,aws,docker&perline=7)](https://skillicons.dev)
+
+<!-- Analytics -->
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/Lanchelotti"><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lanchelotti&show_icons=false&hide_border=true&theme=monokai&include_all_commits=true&count_private=false&hide=issues,contribs"/></a>
+  <a href="https://github.com/Lanchelotti"><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lanchelotti&layout=compact&hide_border=true&theme=monokai"/></a>
+         
+</p>
+
+<!-- Contact -->
+<div align="left">
+<h3>Conecte-se comigo <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a></h3>
+         
+<p align="left">
+  <a href="https://www.linkedin.com/in/gustavo-silveira-b81761229"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:silveira.urp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/sl_vr2"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>

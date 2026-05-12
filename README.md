@@ -13,7 +13,7 @@
 
 * Sou dedicado à criação de código limpo e com atenção aos detalhes, prezando por organização e clareza em cada etapa do desenvolvimento.
 
-* Trabalho com tecnologias como AWS, Python, JavaScript, Docker, Git, SQL, HTML e CSS, explorando continuamente novas formas de aprimorar meu fluxo e minhas soluções.
+* Trabalho com tecnologias como Python, JavaScript, Docker, Git, SQL, HTML e CSS, explorando continuamente novas formas de aprimorar meu fluxo e minhas soluções.
 
 * Busco aprimorar minhas habilidades diariamente, criando soluções que conciliem boa engenharia, usabilidade e impacto real no dia a dia das pessoas.
 

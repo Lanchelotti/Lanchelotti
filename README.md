@@ -22,7 +22,7 @@
 <!-- Tech -->
 ### 🛠 &nbsp;Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,aws,docker&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,docker&perline=7)](https://skillicons.dev)
 
 <!-- Analytics -->
 ### ⚙️ &nbsp;GitHub Analytics
